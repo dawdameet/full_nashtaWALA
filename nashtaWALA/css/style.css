@@ -103,12 +103,13 @@ button{
 body{
   margin: 0;
   padding: 0;
-  background: #195a97;
+  
   height: 100vh;
   overflow: hidden;
 }
 .center{
   position: absolute;
+  background: #195a97;
   margin-top: 190px;
   left: 50%;
   transform: translate(-50%, -50%);
